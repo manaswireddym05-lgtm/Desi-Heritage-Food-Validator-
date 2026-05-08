@@ -33,25 +33,20 @@ Scalable Code: To build a foundation that can later be expanded into a full culi
 * **Step 3:** I made **Custom Exceptions** to stop the code if it finds "wrong" ingredients like processed cheese or mayo.
 * **Step 4:** The program checks if the dish match the specific state of india.
 
-  ##🧑🏻‍🍳Problem Statement
+##🧑🏻‍🍳Problem Statement
   
 In an increasingly globalized culinary landscape, the distinction between authentic traditional Indian cuisine and modernized fast food (Fusion/Indo-Chinese/Westernized) is often blurred. For many, maintaining the integrity of heritage recipes is a matter of cultural preservation.
-
-##🍚Uses
-
-As fast food and fusion dishes become more common, it is getting harder to distinguish authentic Indian heritage dishes from modern commercial food
- It separates traditional Indian recipes from modern fast food.
-Enforces cultural authenticity using Custom Python Exceptions.
-Validates input to ensure only "Desi Heritage" dishes are accepted by the system.
-
-##💻 Execution 
-
-```bash
-python food_validator.py
 
 try:
     validator.check_dish("Burger")
 except ModernFastFoodError as e:
     print(f"Validation Failed: {e}")
     
+##💻 Execution 
+
+```bash
+python food_validator.py
+
+
+
 
