@@ -11,6 +11,6 @@ Code for Culture: Demonstrate how technical error-handling can preserve heritage
 ##🛠️ How it Works
 Step 1: I created a list of "Rules" for authentic Indian food.
 Step 2: I used Python to write the code for the validator.
-Step 3: I made Custom Exceptions. These are special alerts that stop the code if it finds "wrong" ingredients (like mayo or processed cheese).
+I made Custom Exceptions. These are special alerts that stop the code if it finds "wrong" ingredients (like mayo or processed cheese).
 Step 4: The program checks if the food matches its home region (like Punjab or Kerala).
 Step 5: If a dish is "Fast Food" or "Fake," the code throws an error to keep the data authentic.
