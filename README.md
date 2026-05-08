@@ -26,5 +26,7 @@ Scalable Code: To build a foundation that can later be expanded into a full culi
 
 ##💻 Execution 
 
-Food_validator .py
+# No external libraries needed!
+python food_validator.py
+
   
