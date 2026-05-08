@@ -23,4 +23,7 @@ Scalable Code: To build a foundation that can later be expanded into a full culi
 * **Step 2:** I used **Python** to write the validation logic.
 * **Step 3:** I made **Custom Exceptions** to stop the code if it finds "wrong" ingredients like processed cheese or mayo.
 * **Step 4:** The program checks if the dish match the specific state of india.
+
+##💻 Execution 
+Food_validator .py
   
