@@ -1,4 +1,4 @@
-# Desi-Heritage-Food-Validator-
+# 🍲Desi-Heritage-Food-Validator-
 
 "A Python project that uses custom exceptions to filter traditional Indian dishes from modern fast food"
 
@@ -16,6 +16,15 @@ Scalable Code: To build a foundation that can later be expanded into a full culi
 * **Validate Authenticity:** Use Python logic to verify traditional Indian dishes.
 
 * **Map Origins:** Ensure dishes align with their specific regional roots (e.g., Punjabi, South Indian).
+
+  ## 🍜Project Gallery
+
+### Traditional vs. Fast Food Examples
+![Food Image 1](IMG-20260508-WA0047.jpg)
+![Food Image 2](IMG-20260508-WA0048.jpg)
+![Food Image 3](IMG-20260508-WA0049.jpg)
+![Food Image 4](IMG-20260508-WA0050.jpg)
+
 
 ## 🛠️ How it Works (Methodology)
 
