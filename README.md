@@ -26,7 +26,5 @@ Scalable Code: To build a foundation that can later be expanded into a full culi
 
 ##💻 Execution 
 
-# Run the validator script
-To run the validator, use the following command :
 ```bash
 python food_validator.py
