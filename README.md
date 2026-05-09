@@ -47,6 +47,8 @@ except ModernFastFoodError as e:
 ```bash
 python food_validator.py
 
+## 👤 Author
 
+Muttani Sai Manaswi
 
 
