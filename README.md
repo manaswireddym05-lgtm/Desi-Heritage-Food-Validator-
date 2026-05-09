@@ -39,6 +39,7 @@ In an increasingly globalized culinary landscape, the distinction between authen
 
 try:
     validator.check_dish("Burger")
+    
 except ModernFastFoodError as e:
     print(f"Validation Failed: {e}")
     
